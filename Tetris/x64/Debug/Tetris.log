@@ -1,8 +1,0 @@
-﻿  Spiel.cpp
-c:\users\schlender\source\repos\übungen programmieren 1\tetris\tetris\spiel.cpp(6): warning C4309: "=": Verkürzung eines konstanten Wertes
-c:\users\schlender\source\repos\übungen programmieren 1\tetris\tetris\spiel.cpp(534): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
-c:\users\schlender\source\repos\übungen programmieren 1\tetris\tetris\spiel.cpp(569): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
-  Tetris.cpp
-c:\users\schlender\source\repos\übungen programmieren 1\tetris\tetris\tetris.cpp(8): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
-  Code wird generiert...
-  Tetris.vcxproj -> C:\Users\Schlender\source\repos\Übungen Programmieren 1\Übung_1\x64\Debug\Tetris.exe
